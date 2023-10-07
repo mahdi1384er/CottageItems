@@ -1,0 +1,19 @@
+{
+  "CottageItems": [
+    {
+      "id": 1,
+      "titels": "خدمات آنلاین در تمام روزهای هفته",
+      "imgs": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3xtWXdfdXo5anl0WXx8ZW58MHx8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 2,
+      "titels": "اقامت با کیفیت تر با هزینه کمتر",
+      "imgs": "https://images.unsplash.com/photo-1608429835892-30be51ea4d6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 3,
+      "titels": "تسویه با میزبان پس از تحویل اقامتگاه",
+      "imgs": "https://images.unsplash.com/photo-1472224371017-08207f84aaae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=700&q=60"
+    }
+  ]
+}
